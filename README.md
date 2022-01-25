@@ -1,7 +1,5 @@
 # myGradient
 
-# myGithubApi
-
 ## A gradient tool using a redux store
 
 </br>
