@@ -19,7 +19,4 @@
 
 ## Screenshot
 
-<p align="center"> 
-<img alt src="./docs/gradient.png"><br>
-resultat
-</p>
+![](gradient.png)
